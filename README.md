@@ -68,13 +68,17 @@ djärvare
 ---
 
 # Citation
-Phan, N., Kuronen, M., Kautonen, M., Ullakonoja, R., von Zansen, A., Getman, Y., Voskoboinik, E., Grósz, T., Kurimo, M. (2025) Mispronunciation Detection Without L2 Pronunciation Dataset in Low-Resource Setting: A Case Study in Finland Swedish. Accepted in Interspeech 2025.  
+Phan, N., Kuronen, M., Kautonen, M., Ullakonoja, R., von Zansen, A., Getman, Y., Voskoboinik, E., Grósz, T., Kurimo, M. (2025) Mispronunciation Detection Without L2 Pronunciation Dataset in Low-Resource Setting: A Case Study in Finland Swedish. Proc. Interspeech 2025, 2435-2439, doi: 10.21437/Interspeech.2025-1375
 
 ```bibtex
-@inproceedings{phan25,
-  title     = {Mispronunciation Detection Without L2 Pronunciation Dataset in Low-Resource Setting: A Case Study in Finland Swedish},
-  author    = {Nhan Phan and Mikko Kuronen and Maria Kautonen and Riikka Ullakonoja and Anna {von Zansen} and Yaroslav Getman and Ekaterina Voskoboinik and Tamás Grosz and Mikko Kurimo},
+@inproceedings{phan25_interspeech,
+  title     = {{Mispronunciation Detection Without L2 Pronunciation Dataset in Low-Resource Setting: A Case Study in Finland Swedish}},
+  author    = {Nhan Phan and Mikko Kuronen and Maria Kautonen and Riikka Ullakonoja and Anna {von Zansen} and Yaroslav Getman and Ekaterina Voskoboinik and Tamás Grósz and Mikko Kurimo},
   year      = {2025},
+  booktitle = {{Interspeech 2025}},
+  pages     = {2435--2439},
+  doi       = {10.21437/Interspeech.2025-1375},
+  issn      = {2958-1796},
 }
 
 ```
